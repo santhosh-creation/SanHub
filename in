@@ -1186,7 +1186,7 @@
 
             // 6. Load Default Model (Car)
             // Replaced the default Cube with your custom model
-            loadGLB('car.glb');
+            loadGLB('Sword.glb');
 
             // 7. File Upload Listener
             const input = document.getElementById('glbUpload');
